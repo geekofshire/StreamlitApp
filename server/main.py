@@ -5,7 +5,7 @@ import numpy as np
 import pickle
 import json
 import numpy as np
-import sklearn 
+import sklearn as sk
 
 __locations=None
 __data_columns=None
